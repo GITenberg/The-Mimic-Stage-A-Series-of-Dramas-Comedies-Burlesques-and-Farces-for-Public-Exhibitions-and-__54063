@@ -1,0 +1,33 @@
+_repo: The-Mimic-Stage-A-Series-of-Dramas-Comedies-Burlesques-and-Farces-for-Public-Exhibitions-and-__54063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, George M. (George Melville)
+    aliases:
+    - Baker, George Melville
+    - Baker, G. M. (George Melville)
+    birthdate: 1832
+    deathdate: 1890
+    gutenberg_agent_id: '44486'
+    url: http://www.gutenberg.org/2009/agents/44486
+    wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
+description: ''
+gutenberg_issued: '2017-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Drama'
+- !lcsh 'Amateur plays'
+- GITenberg
+tableOfContents: Down by the sea -- A close shave -- Capuletta -- The great elixir
+  -- The man with the demijohn -- An original idea -- "My uncle the captain" -- No
+  cure, no pay -- Humors of the strike -- Bread on the waters.
+title: "The Mimic Stage\r\nA Series of Dramas, Comedies, Burlesques, and Farces for\
+  \ Public Exhibitions and Private Theatricals"
+url: http://www.gutenberg.org/ebooks/54063
